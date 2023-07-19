@@ -4,18 +4,18 @@ const Start = () => {
             <div className="Background">
                 <div className="Outline">
                     <div className="Inline">
-                        <div>
-                            <div>
+                        <div className="StartWrap">
+                            <div className="StartTitle">
                                 <h1>오늘 뭐 먹지?</h1>
                                 <h2>스터디_참숯가마</h2>
                             </div>
-                            <div>
+                            <div className="StartText">
                                 <span>
                                     메뉴 추천 받으러 가기
                                 </span>
                             </div>
-                            <div>
-                                <bold>START</bold>
+                            <div className="StartBtn">
+                                <span>START</span>
                             </div>
                         </div>
                     </div>
