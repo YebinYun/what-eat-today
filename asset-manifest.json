@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/what-eat-today/static/css/main.271647bc.css",
-    "main.js": "/what-eat-today/static/js/main.9f90a3c3.js",
+    "main.js": "/what-eat-today/static/js/main.56bf9aa3.js",
     "static/media/DinnerBackground.gif": "/what-eat-today/static/media/DinnerBackground.fcd93b28ae66babd9aff.gif",
     "static/media/AnyConv.com__SDSamliphopangcheTTFOutline.woff": "/what-eat-today/static/media/AnyConv.com__SDSamliphopangcheTTFOutline.fed6246811e56855787f.woff",
     "static/media/AnyConv.com__SDSamliphopangcheTTFBasic.woff": "/what-eat-today/static/media/AnyConv.com__SDSamliphopangcheTTFBasic.fed3227b2840562ce1b5.woff",
@@ -11,10 +11,10 @@
     "static/media/HeaderLogo.png": "/what-eat-today/static/media/HeaderLogo.2c015baecf829d4728bb.png",
     "index.html": "/what-eat-today/index.html",
     "main.271647bc.css.map": "/what-eat-today/static/css/main.271647bc.css.map",
-    "main.9f90a3c3.js.map": "/what-eat-today/static/js/main.9f90a3c3.js.map"
+    "main.56bf9aa3.js.map": "/what-eat-today/static/js/main.56bf9aa3.js.map"
   },
   "entrypoints": [
     "static/css/main.271647bc.css",
-    "static/js/main.9f90a3c3.js"
+    "static/js/main.56bf9aa3.js"
   ]
 }
