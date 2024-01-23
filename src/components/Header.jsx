@@ -4,7 +4,6 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "../App.css";
 import { Link } from 'react-router-dom';
-import LogoIcon from "../images/HeaderLogo.png";
 
 const Header = ({ weather }) => {
   // 현재 시간을 보여줄 상태 변수 선언
@@ -34,7 +33,11 @@ const Header = ({ weather }) => {
           </Col>
           <Col sm={1}>
             <Link to="/">
-              <img id="LogoImg" src={LogoIcon} alt="로고" />
+              <img
+                id="LogoImg"
+                src={`${process.env.PUBLIC_URL}/images/HeaderLogo.png`}
+                alt="로고"
+              />
             </Link>
           </Col>
           <Col sm="auto">

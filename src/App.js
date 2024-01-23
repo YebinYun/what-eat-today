@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
-import Header from "./components/Header.js";
+import Header from "./components/Header.jsx";
 import Start from "./pages/Start";
 import Decided from "./pages/Decided";
 import DecidedResult from "./pages/DecidedResult";
