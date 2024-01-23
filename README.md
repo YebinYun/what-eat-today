@@ -5,7 +5,8 @@
 
 >**스터디_참숯가마** <br>
 >>**개발기간 : 2023.7.17 ~ 2023.08.5** <br>
->>**배포날짜 : 2023.8.13** 
+>>**배포날짜 : 2023.8.13** <br>
+>>**리팩토링 : 2024.01.23 ~ ing**
 >>> - **[Figma Link](https://www.figma.com/proto/AG5nU9XNDDQyW45whFZgTe/%EC%98%A4%EB%8A%98%EB%AD%90%EB%A8%B9%3F?page-id=0%3A1&node-id=15-7&starting-point-node-id=15%3A7&mode=design&t=VIeIVuqEMuo5LRcy-1)**
 >>> - **[배포사이트](https://yebinyun.github.io/what-eat-today/)**
 
